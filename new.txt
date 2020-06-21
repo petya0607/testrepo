@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+bob
+jim
+mary
+=======
 bob jim
  
+>>>>>>> 599fef29ccf96a6b7667e9a60358536a925fb6da
